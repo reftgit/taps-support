@@ -21,4 +21,4 @@ bir uygulamanın ses çalması ölçümü bozar. Bu durumda sonuç kaydedilmez.
 
 ## İletişim
 
-Soru ve geri bildirim için: eposta@adresin.com
+Soru ve geri bildirim için: refdevelops@gmail.com
